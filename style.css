@@ -1,0 +1,84 @@
+body{
+	background-color: #1d0136;
+	color: #4b0082;
+	font-family: Goudy Old Style;
+}
+#container{
+	background-color: #b9a1e8;
+	margin-top: 80px;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 480px;
+	width: 800px;
+	border-style: solid;
+	padding: 0px;
+}
+
+#header{
+	background-color: #bf94e4;
+	text-align: center;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	height: 80px;
+	margin: 0px;
+}
+#btslogo{
+	position: relative;
+	right: -320px;
+	top: -102px
+}
+#leftcolumn{
+	background-color: #bf94e4;
+	position: relative;
+	padding-left: 20px;
+	border-right-style: solid;
+	left: 0px;
+	width: 130px;
+	height: 320px;
+	float: left;
+	white-space: pre-line;
+}
+#rightcolumn{
+	position: relative;
+	width: 580px;
+	height: 300px;
+	padding: 10px;
+	float: right;
+}
+#navBar{
+	text-align: left;
+}
+#magicshop{
+	position: absolute;
+	right: 10px;
+	top: 35px;
+	border-style: solid;
+}
+#footer{
+	background-color: #bf94e4;
+	border-top-style: solid;
+	height: 62px;
+	text-align: center;
+	font-style: itallic;
+	width: 800px;
+	margin-top: 320px;
+	padding-top: 10px;
+}
+#music{
+	position: absolute;
+	right: 10px;
+	top: 35px;
+	border-style: solid;
+}
+#coffee{
+	position: absolute;
+	right: 10px;
+	top: 35px;
+	border-style: solid;
+}
+#food{
+	position: absolute;
+	right: 10px;
+	top: 35px;
+	border-style: solid;
+}
